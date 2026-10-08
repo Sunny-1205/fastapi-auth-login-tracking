@@ -4,8 +4,7 @@ A user authentication REST API built with **FastAPI**, **SQLAlchemy** and **Post
 
 ## Live Demo
 
-- API: https://fastapi-auth-login-tracking-production.up.railway.app
-- Swagger docs: https://fastapi-auth-login-tracking-production.up.railway.app/docs
+- API: https://fastapi-auth-login-tracking-production.up.railway.app/docs
 
 Deployed on Railway with a managed PostgreSQL database and environment-based configuration.
 
